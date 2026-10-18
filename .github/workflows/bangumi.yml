@@ -1,0 +1,29 @@
+name: bangumi
+
+on:
+  schedule:
+    - cron: "43 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  card:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      BANGUMI_USER: 1176843
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: python3 scripts/bangumi.py "$BANGUMI_USER" bangumi.svg
+
+      - name: commit if changed
+        run: |
+          git add bangumi.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update bangumi card"
+          git pull --rebase
+          git push
