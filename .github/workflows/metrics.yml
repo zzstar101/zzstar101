@@ -12,7 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: lowlighter/metrics@latest
+      # community fork of lowlighter/metrics, pinned to a commit:
+      # upstream breaks on the Projects (classic) deprecation, see lowlighter/metrics#1706
+      - uses: stalomeow/metrics@4fca5f91c5432c68955ea66a8fa7c6a51f58644e
         with:
           filename: achievements.svg
           # classic token with no scopes, saved as the repo secret METRICS_TOKEN
@@ -22,14 +24,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
-          plugin_habits_days: 30

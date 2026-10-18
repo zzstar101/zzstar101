@@ -24,7 +24,7 @@
   <img height="110" src="https://streak-stats.demolab.com/?user=zzstar101&locale=zh_Hans&hide_border=true&background=00000000&ring=E11C1C&fire=E11C1C&currStreakLabel=E11C1C&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E40" alt="streak" />
   <br />
   <img width="380" src="./achievements.svg" alt="achievements" />
-  <img width="380" src="./habits.svg" alt="habits" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=zzstar101&repo=taygedo-auto-attendance&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" alt="taygedo-auto-attendance" />
   <br />
   <a href="https://bgm.tv/user/1176843"><img src="./bangumi.svg" alt="Bangumi" width="100%" /></a>
 </div>
