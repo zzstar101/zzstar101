@@ -6,7 +6,7 @@
 </td>
 <td align="center" width="50%">
   <img src="https://skillicons.dev/icons?i=ts,go,py,bun" alt="TypeScript · Go · Python · Bun" /><br />
-  <img height="60" src="https://count.getloli.com/@zzstar?theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="zzstar" />
+  <img height="28" src="https://hits.sh/github.com/zzstar101.svg?label=visitors&color=e11c1c&style=flat-square" alt="visitors" />
 </td>
 </tr></table>
 </div>
@@ -18,13 +18,13 @@
 </picture>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zzstar101&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzstar101&layout=compact&hide_border=true&bg_color=00000000&title_color=e11c1c&text_color=8b949e" />
+  <img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zzstar101&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" />
+  <img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zzstar101&layout=compact&hide_border=true&bg_color=00000000&title_color=e11c1c&text_color=8b949e" />
   <br />
   <img height="110" src="https://streak-stats.demolab.com/?user=zzstar101&locale=zh_Hans&hide_border=true&background=00000000&ring=E11C1C&fire=E11C1C&currStreakLabel=E11C1C&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E40" alt="streak" />
   <br />
   <img width="380" src="./achievements.svg" alt="achievements" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=zzstar101&repo=taygedo-auto-attendance&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" alt="taygedo-auto-attendance" />
+  <img width="380" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zzstar101&repo=taygedo-auto-attendance&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" alt="taygedo-auto-attendance" />
   <br />
   <a href="https://bgm.tv/user/1176843"><img src="./bangumi.svg" alt="Bangumi" width="100%" /></a>
 </div>
