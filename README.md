@@ -6,7 +6,7 @@
 </td>
 <td align="center" width="50%">
   <img src="https://skillicons.dev/icons?i=ts,go,py,bun" alt="TypeScript · Go · Python · Bun" /><br />
-  <img height="28" src="https://hits.sh/github.com/zzstar101.svg?label=visitors&color=e11c1c&style=flat-square" alt="visitors" />
+  <img height="60" src="https://count.getloli.com/@zzstar?theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="zzstar" />
 </td>
 </tr></table>
 </div>
