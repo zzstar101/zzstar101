@@ -23,6 +23,8 @@
   <br />
   <img height="110" src="https://streak-stats.demolab.com/?user=zzstar101&locale=zh_Hans&hide_border=true&background=00000000&ring=E11C1C&fire=E11C1C&currStreakLabel=E11C1C&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E40" alt="streak" />
   <br />
+  <a href="https://tokens.ci/u/zzstar101"><img src="https://tokens.ci/api/embed/zzstar101/svg?graph=1&today=1&tokens=compact&cost=compact" alt="Tokens stats" width="680" /></a>
+  <br />
   <img width="380" src="./achievements.svg" alt="achievements" />
   <img width="380" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zzstar101&repo=taygedo-auto-attendance&hide_border=true&bg_color=00000000&title_color=e11c1c&icon_color=e11c1c&text_color=8b949e" alt="taygedo-auto-attendance" />
   <br />
